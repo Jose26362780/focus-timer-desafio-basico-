@@ -18,7 +18,7 @@ este modulo aprendi sobre:
 ![preview](./.github/desafio%20basico%20pomodoro.png)
 
 
-👉🏼[Link do projeto](https://polite-dodol-f276bd.netlify.app/)
+👉🏼[Link do projeto](https://focus-timer-desafio-basico.netlify.app/)
 
 
 # Desafio de focus timer desafio basico 
